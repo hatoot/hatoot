@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hatoot
-- 👀 I’m interested in blockchain technology and the crypto industry.
+- 👀 I’m interested in Frontend development, the blockchain technology, and the crypto industry.
 - 🌱 I’m currently learning the fundamentals of programming plus solidity.
 - 💞️ I’m looking to collaborate on blockchain based projects.
 - 📫 How to reach me 
